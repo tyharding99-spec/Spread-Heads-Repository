@@ -16,7 +16,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.avantrei.spreadly",
-  "buildNumber": "1.0.9",
+  "buildNumber": "1.0.10",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
